@@ -1,1 +1,2 @@
 This a new file from local clone to commit to remoterepo
+And now edited from portal to pull to local clone
